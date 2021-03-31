@@ -2,21 +2,21 @@
 	{
 		"name"	:	"template",
 		"version" : "1.0.0",
-		"url" : "https://imrober.com"		
+		"url" : "https://imrober.com/"		
 	}	,
 	{
-		"name"	:	"amazon_no_api",
+		"name"	:	"amazon-no-api",
 		"version" : "1.0.0",
-		"url" : "https://imrober.com"		
+		"url" : "https://imrober.com/get/amazon-no-api/"		
 	}	,
 	{
-		"name"	:	"search_bar",
+		"name"	:	"search-bar-affiliate",
 		"version" : "1.0.0",
-		"url" : "https://imrober.com"		
+		"url" : "https://imrober.com/get/search-bar-affiliate/"		
 	}	,
 	{
-		"name"	:	"spintax_post",
+		"name"	:	"spintax-post-creator",
 		"version" : "1.0.0",
-		"url" : "https://imrober.com"		
+		"url" : "https://imrober.com/get/spintax-post-creator/"		
 	}
 ]
