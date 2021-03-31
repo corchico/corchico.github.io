@@ -1,0 +1,22 @@
+[	
+	{
+		"name"	:	"template",
+		"version" : "1.0.0",
+		"url" : "https://imrober.com"		
+	}	,
+	{
+		"name"	:	"amazon_no_api",
+		"version" : "1.0.0",
+		"url" : "https://imrober.com"		
+	}	,
+	{
+		"name"	:	"search_bar",
+		"version" : "1.0.0",
+		"url" : "https://imrober.com"		
+	}	,
+	{
+		"name"	:	"spintax_post",
+		"version" : "1.0.0",
+		"url" : "https://imrober.com"		
+	}
+]
